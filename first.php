@@ -18,9 +18,9 @@
 ?>
 
 <?php 
-	// $str1 = "First string";
-	// $str2 = "Second \"string\" &ltbr&gt";
-	// echo $str1."<br>".$str2;
+	$str1 = "First string";
+	$str2 = "Second \"string\" &ltbr&gt";
+	echo $str1."<br>".$str2;
 
  ?>
  <?php 
@@ -33,5 +33,8 @@
  $bool_2 = $x < $y;
  echo $bool_2."<br>";
   ?>
+
+
+  zdfgbdsgsdhgdgdgsdg
 </body>
 </html>
